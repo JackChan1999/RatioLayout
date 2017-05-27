@@ -1,5 +1,8 @@
-# RatioLayout
-等比例显示控件
+# RatioLayout 等比例显示控件
+
+图1和图2都是宽高比例相等，但是分辨率大小不一样的图片，应该按照比例显示，使用等比例显示控件后，图2的显示效果如图3所示，和图1的显示效果是一致的，解决了宽高比相等或接近但分辨率大小不一样而造成的显示效果不一致的问题
+
+<img src="https://github.com/JackChen1999/RatioLayout/blob/master/art/RadioLayout.jpg" width="400" />
 
 # 关于我
 
